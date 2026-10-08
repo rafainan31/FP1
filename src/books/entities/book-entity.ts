@@ -4,5 +4,5 @@ export class Book{
     author: string;
     isbn: string;
     PublisHerYear: number;
-    isAvailabel: Boolean;
+    isAvailabel: boolean;
 }
